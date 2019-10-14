@@ -8,6 +8,7 @@ namespace OnlineMovieStoreV2
     {
         public void Configuration(IAppBuilder app)
         {
+            // Test Comment
             ConfigureAuth(app);
         }
     }
